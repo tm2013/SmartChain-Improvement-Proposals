@@ -1,0 +1,5 @@
+User: acommonsherpa
+Date: 1/28/2016
+SIP: Opt-in/out of text compression encoding.
+The use of this would allow for non-standard characters and symbols.
+Auto-detect of non-standard characters could be implemented, which would present a warning of a higher storage cost due to no compression.
